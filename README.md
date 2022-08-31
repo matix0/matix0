@@ -2,6 +2,7 @@
 <h3 align="center">A Software Engineer student at University of Brasilia, actually a Backend Dev and a Freelancer GameDev</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matix0&theme=dracula)](https://github.com/matix0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matix0&layout=compact&theme=dracula)](https://github.com/matix0/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
