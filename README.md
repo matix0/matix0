@@ -5,12 +5,12 @@
 <p align="left">
 </p>
 
-<div align="left">
+
   <a href="https://github.com/matix0">
   <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=matix0)](https://github.com/matix0/github-readme-stats)"/>
   <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=matix0&hide=contribs,prs)"/>
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=matix0&count_private=true)"/>
-</div>
+(https://github-readme-stats.vercel.app/api?username=matix0&count_private=true)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
