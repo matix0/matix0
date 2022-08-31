@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Vieira</h1>
 <h3 align="center">A Software Engineer student at University of Brasilia, actually a Backend Dev and a Freelancer GameDev</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matix0)](https://github.com/matix0/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matix0&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matix0&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matix0&theme=dracula)](https://github.com/matix0/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
