@@ -3,8 +3,8 @@
 
 <div align="left">
   <a href="https://github.com/matix0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matix0&theme=dracula)](https://github.com/matix0/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matix0&layout=compact&theme=dracula)](https://github.com/matix0/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matix0&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matix0&layout=compact&theme=dracula"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
