@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus Vieira</h1>
-<h3 align="center">A Software Engineer student at University of Brasilia, actually a Backend Dev and a Freelancer GameDev</h3>
+<h3 align="center">A Software Engineer student at University of Brasilia, Backend Dev and a Freelancer GameDev</h3>
 
 <div align="left">
   <a href="https://github.com/matix0">
