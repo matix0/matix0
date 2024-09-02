@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Vieira</h1>
 <h3 align="center">A Software Engineer student at University of Brasilia, Backend Dev and a Freelancer GameDev</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/matix0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matix0&theme=dracula"/>
 </div>
